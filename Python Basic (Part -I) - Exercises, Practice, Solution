@@ -1,0 +1,11 @@
+Exercise 3:
+import datetime
+today = datetime.datetime.now()
+print("Current date and time:",today)
+
+Exercise 4:
+import math
+radius = input("Enter radius:")
+r = float(radius)
+area = (math.pi)*(r**2)
+print(area)
